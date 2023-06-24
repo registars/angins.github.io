@@ -21,7 +21,7 @@
   "homepage": "https://github.com/parksb/handmade-blog#readme",
   "dependencies": {
     "dayjs": "^1.11",
-    "highlight.js": "^11.5",
+    "highlight.js": "^11.8.0",
     "katex": "^0.15",
     "mermaid": "^9.1"
   },
