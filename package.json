@@ -23,7 +23,7 @@
     "dayjs": "^1.11",
     "highlight.js": "^11.5",
     "katex": "^0.15",
-    "mermaid": "^9.1"
+    "mermaid": "^9.3.0"
   },
   "devDependencies": {
     "@types/ejs": "^3.1",
